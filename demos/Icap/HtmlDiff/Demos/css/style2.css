@@ -1,0 +1,8 @@
+.diff-html-changed, .diff-html-added, .diff-html-removed {padding: 2px; margin: 2px; display: inline-block;}
+.diff-html-changed:before, .diff-html-added:before, .diff-html-removed:before {font-size: 10px; font-style: normal; font-weight: normal;}
+.diff-html-changed:before{content:'[~] '; color:#C09853;}
+.diff-html-removed:before{content:'[-] '; color:#B94A48;}  
+.diff-html-added:before{content:'[+] '; color:#468847;}
+.diff-html-changed {background-color: #FCF8E3; border: 1px solid #FBEED5;}
+.diff-html-added {background-color: #DFF0D8; border: 1px solid #D6E9C6; text-decoration: none;}
+.diff-html-removed {background-color: #F2DEDE; border: 1px solid #EED3D7;}
