@@ -25,6 +25,5 @@
     },
     "autoload": {
         "psr-0": { "Icap\\HtmlDiff\\": "src/" }
-    },
-    "target-dir": "Icap/HtmlDiff"
+    }
 }
