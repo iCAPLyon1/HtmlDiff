@@ -24,7 +24,7 @@ with the following requirement:
     {
         "require": {
         	...
-            "icap/htmldiff": ">=1.0.0"
+            "icap/html-diff": ">=1.0.1"
         }
     }
 ```
