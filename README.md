@@ -54,7 +54,7 @@ Then call the outputDiff function of the class to retrieve the result with the c
 	//Then
 	$out->toString();//to get the compared version
 	//And
-	$out->getModifications;//to retrieve the number of differences/modifications between the two blocks.
+	$out->getModifications();//to retrieve the number of differences/modifications between the two blocks.
 ```
 The output is a [ChangeText](https://github.com/iCAPLyon1/HtmlDiff/blob/master/src/Icap/HtmlDiff/Html/ChangeText.php)
 
