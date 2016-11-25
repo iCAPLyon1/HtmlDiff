@@ -3,7 +3,7 @@ HtmlDiff
 
  A PHP5 library that diffs (compares) HTML files.
 
- This library is actually a transfer of the daisy-diff library for PHP, found [here](http://code.google.com/p/daisydiff/source/browse/trunk/daisydiff-php/) for gitgub, meeting the PSR-0 standards.
+ This library is actually a transfer of the daisy-diff library for PHP, found [here](http://code.google.com/p/daisydiff/source/browse/trunk/daisydiff-php/) for gitgub, meeting the PSR-4 standards.
  The library was developped in 2008 and is used today by many wiki platforms (wikipedia, wikihub, gamepedia, etc). It is part of code of the MediaWiki package.
 
 
